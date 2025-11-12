@@ -1,4 +1,4 @@
-#  Diabetes Prediction — Health Classification System
+#  Titanic Prediction — Survival Classification System
 
 ##  Overview
 This project is a Passenger Classification System that predicts whether a passenger survived the Titanic disaster based on various demographic and travel features.
