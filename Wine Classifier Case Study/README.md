@@ -20,10 +20,10 @@ The model identifies the nearest data points in the feature space to classify a 
 
 ---
 ##  Workflow
-1. - **Data Loading:** Import the WinePredictor.csv dataset.
-2  - **Data Cleaning:** Handle missing values and ensure all records are valid.
-3  - **Feature Selection:** Separate independent features (X) and the target variable (Class).
-4  - **Data Standardization:** Apply StandardScaler to normalize the feature values.
+1. - **Data Loading:** Import the WinePredictor.csv dataset. ##
+2  - **Data Cleaning:** Handle missing values and ensure all records are valid.##
+3  - **Feature Selection:** Separate independent features (X) and the target variable (Class).##
+4  - **Data Standardization:** Apply StandardScaler to normalize the feature values.##
 5  - **Data Splitting:** Split the dataset into training and testing sets using train_test_split().
 6  - **Model Training:** Train the K-Nearest Neighbors (KNN) model for different K values (1–20).
 7  - **Model Optimization:** Identify the best K value that gives the highest accuracy.
