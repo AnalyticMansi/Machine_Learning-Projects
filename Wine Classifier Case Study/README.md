@@ -30,9 +30,12 @@ The model identifies the nearest data points in the feature space to classify a 
 8  - **Model Evaluation:** Evaluate the model using accuracy score and confusion matrix.
 9  - **Prediction:** Predict the wine class on test data and display the final accuracy.
 
+--- 
+
 ## Model Output
 
 **Best value of k is :-**  12
+
 **Final Best Accuracy is :-**  97.22%
 
 **Confusion Matrix:**
